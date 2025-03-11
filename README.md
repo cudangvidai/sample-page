@@ -19,7 +19,7 @@
         
         <section>
             <h2>NEED MONEY FOR CAR</h2>
-            <img src="https://imgur.com/a/xes7UCi" alt="QR">
+            <img src="https://drive.google.com/file/d/1EicYtf_beSyGbJ0ayPYZ6QopXakKQGVx/view?usp=drive_link" alt="QR">
            
         </section>
     </main>
